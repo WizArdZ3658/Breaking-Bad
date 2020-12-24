@@ -5,7 +5,7 @@ class Header extends Component {
     render() {
         return (
             <header>
-                <nav className="navbar navbar-light bg-light">
+                <nav className="navbar navbar-dark bg-dark">
                     <div className="container-fluid">
                         <span className="navbar-brand mb-0 h1">Breaking Bad Characters</span>
                         <Link 
