@@ -1,6 +1,6 @@
 # Breaking Bad
 
-This is an application where users can get information on all the characters in Breaking Bad (a popular T.V. series).
+This is an application where users can get information on all the characters in Breaking Bad (a popular T.V. series). Utilized BreakingBadAPI for getting information on Breaking Bad characters.
 
 ## Technology Stack
 
