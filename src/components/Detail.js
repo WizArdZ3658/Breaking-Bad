@@ -98,31 +98,30 @@ class Detail extends Component{
 
     getQuotes = () => {
         var quotesList = this.props.quotes;
+        var renderQuotes;
+
         if (quotesList.length == 0) {
             renderQuotes = (
-                <li
-                    className=""
-                >
+                <li>
                     <h4>
                         None
                     </h4>    
                 </li>
             )
+            return renderQuotes;
         }
 
-        var renderQuotes = quotesList.map((quote) => {
+        renderQuotes = quotesList.map((quote) => {
             return (
-                <li
-                    key={quote.quote_id}
-                    id={quote.quote_id}
-                    className=""
-                >
+                <li>
                     <h4>
                         {quote.quote}
                     </h4>  
                 </li>
             );
         });
+
+        return renderQuotes;
     }
 
     render() {

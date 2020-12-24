@@ -4,8 +4,8 @@
   "description": "An application for Breaking Bad characters",
   "main": "index.js",
   "scripts": {
-    "dev": "webpack --mode development --watch ./src/index.js --output-path ./scripts/",
-    "build": "webpack --mode production ./src/index.js --output-path ./scripts/"
+    "dev": "webpack --mode development --watch ./src/index.js --output-path ./public/scripts/",
+    "build": "webpack --mode production ./src/index.js --output-path ./public/scripts/"
   },
   "author": "Somnath",
   "license": "ISC",
