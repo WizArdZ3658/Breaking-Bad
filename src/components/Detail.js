@@ -132,7 +132,6 @@ class Detail extends Component{
         const id = this.props.character_id;
         var characterData = this.props.allCharacters.filter((item) => item.char_id == id);
         characterData = characterData[0];
-        console.log(this.props);
 
         return (
             <div className="">
