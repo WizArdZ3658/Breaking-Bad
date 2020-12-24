@@ -139,7 +139,7 @@ class Detail extends Component{
                     <div className="imgContainer wd-50 blue-bg">
                         <img src={characterData.img} />
                     </div>
-                    <div className="wd-50 white-bg">
+                    <div className="wd-50">
                         <div className = "ht-50 yellow-bg">
                             <h4>Name : </h4>
                         </div>
@@ -158,7 +158,7 @@ class Detail extends Component{
                 <br />
                 <br />
                 
-                <div className="d-flex flex-row white-bg">
+                <div className="d-flex flex-row">
                     <div className="wd-50 ht-50 orange-bg">
                         <h4 className="">Status : </h4>
                     </div>
@@ -167,7 +167,7 @@ class Detail extends Component{
                     </div>
                 </div>
 
-                <div className="d-flex flex-row white-bg">
+                <div className="d-flex flex-row">
                     <div className="wd-50 ht-50 yellow-bg">
                         <h4 className="">Nickname : </h4>
                     </div>
@@ -176,7 +176,7 @@ class Detail extends Component{
                     </div>
                 </div>
 
-                <div className="d-flex flex-row white-bg">
+                <div className="d-flex flex-row">
                     <div className="wd-50 ht-50 orange-bg">
                         <h4 className="">Actor : </h4>
                     </div>
@@ -185,7 +185,7 @@ class Detail extends Component{
                     </div>
                 </div>
 
-                <div className="d-flex flex-row white-bg">
+                <div className="d-flex flex-row">
                     <div className="wd-50 ht-50 violet-bg">
                         <h4 className="">Occupation : </h4>
                     </div>
@@ -194,7 +194,7 @@ class Detail extends Component{
                     </div>
                 </div>
                 
-                <div className="d-flex flex-row white-bg">
+                <div className="d-flex flex-row">
                     <div className="wd-50 ht-50 green-bg">
                         <h4 className="">Seasons : </h4>
                     </div>
@@ -206,7 +206,7 @@ class Detail extends Component{
                 <br />
                 <br />
 
-                <div className="d-flex flex-row white-bg">
+                <div className="d-flex flex-row">
                     <div className="wd-50 ht-50 violet-bg">
                         <h4 className="">Quotes : </h4>
                     </div>
