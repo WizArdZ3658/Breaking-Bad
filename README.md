@@ -6,11 +6,11 @@ This is an application where users can get information on all the characters in 
 
 ##### Languages :-
 
-HTML, CSS, Javascript, Git
+HTML, CSS, Javascript
 
 ##### Frameworks, Libraries and Tools:-
 
-React, Redux, Axios, React Router, ReactDOM, React Alert, Redux DevTools(for development only), Webpack, Babel, Bootstrap, VSCode, JSON, [Breaking Bad API](https://breakingbadapi.com/documentation)
+React, Redux, Axios, React Router, ReactDOM, React Alert, Redux DevTools(for development only), Webpack, Babel, Bootstrap, VSCode, JSON, [Breaking Bad API](https://breakingbadapi.com/documentation), Git
 
 ##### Environment:-
 
