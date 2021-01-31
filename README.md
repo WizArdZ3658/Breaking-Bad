@@ -10,7 +10,7 @@ HTML, CSS, Javascript
 
 ##### Frameworks, Libraries and Tools:-
 
-React, Redux, Axios, React Router, ReactDOM, React Alert, Redux DevTools(for development only), Webpack, Babel, Bootstrap, VSCode, [Breaking Bad API](https://breakingbadapi.com/documentation), Git
+React, Redux, Axios, React Router Dom, Redux DevTools(for development only), Webpack, Babel, Bootstrap, VSCode, [Breaking Bad API](https://breakingbadapi.com/documentation), Git
 
 ##### Environment:-
 
